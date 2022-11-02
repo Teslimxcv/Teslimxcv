@@ -4,7 +4,7 @@
 
 I'm a freelance Software Tester, Documentary Filmmaker, and Photographer currently learning Cloud Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022. I'm passionate about learning new trends in technology, cloud engineering, and Film. I  build useful [open-source projects](https://github.com/Teslimxcv)...
 
-**Here's are quick facts about me**:
+**Here are quick facts about me**:
 
 - 😊 Pronouns: He/him
 - I’m currently working on Deploying a Laravel Real World Web Application
